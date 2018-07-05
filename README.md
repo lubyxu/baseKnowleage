@@ -7,3 +7,5 @@
 3、为什么setState是异步的：https://github.com/facebook/react/issues/11527#issuecomment-360199710
 
 4、深入剖析mobx：https://hackernoon.com/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254
+
+5、infQ的ES6深入浅出系列：http://www.infoq.com/cn/es6-in-depth/
