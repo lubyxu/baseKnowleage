@@ -9,3 +9,5 @@
 4、深入剖析mobx：https://hackernoon.com/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254
 
 5、infQ的ES6深入浅出系列：http://www.infoq.com/cn/es6-in-depth/
+
+6、关于JS number精度问题：https://medium.com/dailyjs/javascripts-number-type-8d59199db1b6
