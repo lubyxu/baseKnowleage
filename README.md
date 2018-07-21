@@ -12,4 +12,6 @@
 
 6、关于JS number精度问题：https://medium.com/dailyjs/javascripts-number-type-8d59199db1b6 、 https://segmentfault.com/a/1190000009084877
 
-7、React Fiber: http://www.ayqy.net/blog/dive-into-react-fiber/
+7、React Fiber: http://www.ayqy.net/blog/dive-into-react-fiber/   。 https://juejin.im/post/5ab7b3a2f265da2378403e57。
+
+8、前端单元测试（UNREAD）：https://juejin.im/post/5b32ff04f265da598378f507    https://juejin.im/post/5b3337936fb9a00e6b3ca565
