@@ -11,6 +11,7 @@
 5、infQ的ES6深入浅出系列：http://www.infoq.com/cn/es6-in-depth/
 
 6、关于JS number精度问题：https://medium.com/dailyjs/javascripts-number-type-8d59199db1b6 、 https://segmentfault.com/a/1190000009084877
+   IEEE 754逐级下溢：http://www.maixj.net/ict/ieee-754-15568
 
 7、React Fiber: http://www.ayqy.net/blog/dive-into-react-fiber/   。 https://juejin.im/post/5ab7b3a2f265da2378403e57   http://zxc0328.github.io/2017/09/28/react-16-source/
 
