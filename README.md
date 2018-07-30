@@ -20,3 +20,5 @@
 9、渲染回调： https://www.reddit.com/r/reactjs/comments/72jger/michael_jackson_never_write_another_hoc/
 
 10、JS中的小技巧（UNREAD）：https://juejin.im/post/5b51e5d3f265da0f4861143c
+
+11、web性能优化：https://juejin.im/entry/5b55b7e3f265da0f9a2ce9c5
