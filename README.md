@@ -22,3 +22,5 @@
 10、JS中的小技巧（UNREAD）：https://juejin.im/post/5b51e5d3f265da0f4861143c
 
 11、web性能优化：https://juejin.im/entry/5b55b7e3f265da0f9a2ce9c5
+
+12、how javascript works： https://dev.to/rhymes/how-javascript-works-1bha
