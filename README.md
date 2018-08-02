@@ -26,3 +26,5 @@
 12、how javascript works： https://dev.to/rhymes/how-javascript-works-1bha
 
 13、CSS的空格处理：https://mp.weixin.qq.com/s/tDDUOm0pXRWtqGWHEmalZg
+
+14、如何学习react源码：https://reactjs.org/docs/how-to-contribute.html
