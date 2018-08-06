@@ -30,3 +30,5 @@
 14、如何学习react源码：https://reactjs.org/docs/how-to-contribute.html
 
 15、JS中的私有变量： https://mp.weixin.qq.com/s/n3sBxtE66MF_SWj9MvAikw
+
+16、前端性能之javascript成本： https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4  中文：https://mp.weixin.qq.com/s/Ngj1bVkXRsXx0Ke6EdWkCg
