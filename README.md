@@ -9,6 +9,8 @@
 
 4、深入剖析mobx：https://hackernoon.com/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254
 
+    你需要 Mobx 还是 Redux ？https://mp.weixin.qq.com/s/dfYzIgsaF8_5wXh5Dz-Myw
+
 5、infQ的ES6深入浅出系列：http://www.infoq.com/cn/es6-in-depth/
 
 6、关于JS number精度问题：https://medium.com/dailyjs/javascripts-number-type-8d59199db1b6 、 https://segmentfault.com/a/1190000009084877
