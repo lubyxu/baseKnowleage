@@ -37,3 +37,8 @@
 16、前端性能之javascript成本： https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4  中文：https://mp.weixin.qq.com/s/Ngj1bVkXRsXx0Ke6EdWkCg
 
 17、GraphQL好文章和配套栗子：https://mp.weixin.qq.com/s/F55uPAKLI1c78ccsK23ubw    https://github.com/graphql/swapi-graphql
+
+
+
+# webpack 篇
+webpack 如何通过作用域分析消除无用代码： https://medium.com/webpack/better-tree-shaking-with-deep-scope-analysis-a0b788c0ce77
