@@ -44,3 +44,7 @@ JS中的哲学：https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=265122844
 # webpack 篇
 webpack 如何通过作用域分析消除无用代码： https://medium.com/webpack/better-tree-shaking-with-deep-scope-analysis-a0b788c0ce77
 webpack手册：https://survivejs.com/webpack/
+前端性能优化—js代码打包： https://mp.weixin.qq.com/s/DzOJxtunxf8cIOi8hne-lw
+# ES6篇
+promise： https://mp.weixin.qq.com/s/sevk4IhJQth16srklqQydg
+
