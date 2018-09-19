@@ -46,6 +46,7 @@ webpack 如何通过作用域分析消除无用代码： https://medium.com/webp
 webpack手册：https://survivejs.com/webpack/
 前端性能优化—js代码打包： https://mp.weixin.qq.com/s/DzOJxtunxf8cIOi8hne-lw
 # ES6篇
+标准：http://www.ecma-international.org/ecma-262/6.0/
 promise： https://mp.weixin.qq.com/s/sevk4IhJQth16srklqQydg
 
 # 编辑器篇
