@@ -48,3 +48,6 @@ webpack手册：https://survivejs.com/webpack/
 # ES6篇
 promise： https://mp.weixin.qq.com/s/sevk4IhJQth16srklqQydg
 
+# 编辑器篇
+Atom光标快捷键：https://blog.csdn.net/u010494080/article/details/50615953
+
