@@ -49,6 +49,7 @@ JS中的哲学：https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=265122844
 # ES6篇
 1. 标准：http://www.ecma-international.org/ecma-262/6.0/
 2. promise： https://mp.weixin.qq.com/s/sevk4IhJQth16srklqQydg
+3. 深入理解ES Module https://mp.weixin.qq.com/s/el4T4LqH9WlSMu4z9F2J8A
 
 # 编辑器篇
 1. Atom光标快捷键：https://blog.csdn.net/u010494080/article/details/50615953
